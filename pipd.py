@@ -1,3 +1,4 @@
+#Un utilitaire graphique pour voir les dépendances pip installées sur le systeme
 import math
 import pkg_resources
 import curses

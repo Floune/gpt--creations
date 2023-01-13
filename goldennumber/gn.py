@@ -1,3 +1,4 @@
+#graph du nombre d'or ?
 import matplotlib.pyplot as plt
 import numpy as np
 
